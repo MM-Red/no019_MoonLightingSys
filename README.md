@@ -1,13 +1,14 @@
 <p><h1 align="center">基于SSM的兼职论坛管理系统</h1></p>
 
-<p> 获取sql文件 QQ: 605739993 QQ群: 377586148 </p>
-<p> [个人站点: 从戎源码网](https://armycodes.com/)</p>
+<p> 获取sql文件 QQ: 3645296857 QQ群: 978300347 </p>
+<h4> 需要视频演示可联系上述QQ，私发视频链接 </h4>
+<p> 获取更多高质量源码，请访问：[mzoo源码网](https://mzoocodes.com/)</p>
 
 ## 简介
 
 > 本代码来源于网络,仅供学习参考使用!
 >
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
+> <b style="color: dodgerblue"> 提供1.远程部署/2.修改代码/3.定制程序/4.文档指导/5.框架代码讲解、技术解答、代码讲解等服务 </b>
 >
 > 管理员地址：http://localhost:8080/moonlighting/manager/login/goServerLogin.action
 > 
